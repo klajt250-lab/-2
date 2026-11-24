@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "a71vgbyuDyM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25301071\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25301071\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\25301071\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\25301071\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\11.0.1\\swashbuckle.aspnetcore.swaggerui.11.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Microsoft.OpenApi\" 2.0.0 есть известная уязвимость https://github.com/advisories/GHSA-v5pm-xwqc-g5wc (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\Users\\25301071\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\25301071\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
